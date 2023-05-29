@@ -1,2 +1,2 @@
-# EncriptadorTXT
- Challenge Alura
+# Encriptador-txt
+Challenge Alura, Encriptador de texto
